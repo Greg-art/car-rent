@@ -1,8 +1,8 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\serio\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add tsyringe
+  C:\Program Files\nodejs\node.exe C:\Users\serio\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add reflect-metadata
 
 PATH: 
-  C:\Program Files (x86)\Microsoft\Edge\Application;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\serio\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\serio\AppData\Local\Programs\Python\Python310\;C:\Users\serio\AppData\Local\Microsoft\WindowsApps;;C:\Users\serio\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\serio\AppData\Roaming\npm
+  C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\serio\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\serio\AppData\Local\Programs\Python\Python310\;C:\Users\serio\AppData\Local\Microsoft\WindowsApps;;C:\Users\serio\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\serio\AppData\Roaming\npm
 
 Yarn version: 
   1.22.18
